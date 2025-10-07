@@ -14,41 +14,6 @@
     "text": "Group Employability Project - Group Employability project for Boston University\n\nPerformed Linear Regression on large job posting dataset and generated following visualizations\n\n\n\nActual vs. Predicted Salary via Regression Analysis\n\n\n\n\n\nDistribution of Above/Below Average Salaries\n\n\n\n\n\nTop 10 States by Average Salary\n\n\n\n\n\nTop Job Titles by Average Salaries"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Feel free to connect with me to discuss supply chain strategy, logistics optimization, or data analytics in business operations."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a motivated and results-driven supply chain professional with over eight years of experience in logistics management, regulatory compliance, and stakeholder engagement across the aviation and transportation sectors. Currently serving as a Procurement Agent within Boeing’s BCA Aftermarket Deal Team, I specialize in contract negotiation support, supplier strategy alignment, and cross-functional collaboration to optimize performance and mitigate operational risks."
-  },
-  {
-    "objectID": "about.html#profile",
-    "href": "about.html#profile",
-    "title": "About",
-    "section": "",
-    "text": "I am a motivated and results-driven supply chain professional with over eight years of experience in logistics management, regulatory compliance, and stakeholder engagement across the aviation and transportation sectors. Currently serving as a Procurement Agent within Boeing’s BCA Aftermarket Deal Team, I specialize in contract negotiation support, supplier strategy alignment, and cross-functional collaboration to optimize performance and mitigate operational risks."
-  },
-  {
-    "objectID": "about.html#professional-interests",
-    "href": "about.html#professional-interests",
-    "title": "About",
-    "section": "Professional Interests",
-    "text": "Professional Interests\nMy professional interests lie at the intersection of supply chain , business analytics, and strategic sourcing—leveraging data-driven insights to enhance efficiency and deliver measurable value. Pursuing my Master of Science in Business Analytics at Boston University has deepened my analytical and decision-making capabilities, particularly in areas such as SQL, predictive modeling, and advanced data analysis."
-  },
-  {
-    "objectID": "about.html#long-term-career-goal",
-    "href": "about.html#long-term-career-goal",
-    "title": "About",
-    "section": "Long-Term Career Goal",
-    "text": "Long-Term Career Goal\nMy long-term career goal is to advance into a leadership role in supply chain strategy or procurement analytics, where I can combine my technical expertise and business acumen to influence global sourcing decisions, drive digital transformation, and shape resilient supply chain networks for the future"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Resume/CV",
@@ -82,5 +47,40 @@
     "title": "Resume/CV",
     "section": "Education",
     "text": "Education\n\nBoston University, Metropolitan College\nExpected December 2025\nMaster of Science in Business Analytics (MSBA)\n\n\nOregon State University, E-Campus\nAwarded December 2022\nBachelor of Science in Business Information Systems Cum Laude\n\n\nGreen River College, Auburn, WA\nAwarded December 2020\nAssociate in Business Associate in Arts"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Feel free to connect with me to discuss supply chain strategy, logistics optimization, or data analytics in business operations."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a motivated and results-driven supply chain professional with over eight years of experience in logistics management, regulatory compliance, and stakeholder engagement across the aviation and transportation sectors. Currently serving as a Procurement Agent within Boeing’s BCA Aftermarket Deal Team, I specialize in contract negotiation support, supplier strategy alignment, and cross-functional collaboration to optimize performance and mitigate operational risks."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "I am a motivated and results-driven supply chain professional with over eight years of experience in logistics management, regulatory compliance, and stakeholder engagement across the aviation and transportation sectors. Currently serving as a Procurement Agent within Boeing’s BCA Aftermarket Deal Team, I specialize in contract negotiation support, supplier strategy alignment, and cross-functional collaboration to optimize performance and mitigate operational risks."
+  },
+  {
+    "objectID": "about.html#professional-interests",
+    "href": "about.html#professional-interests",
+    "title": "About",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nMy professional interests lie at the intersection of supply chain , business analytics, and strategic sourcing—leveraging data-driven insights to enhance efficiency and deliver measurable value. Pursuing my Master of Science in Business Analytics at Boston University has deepened my analytical and decision-making capabilities, particularly in areas such as SQL, predictive modeling, and advanced data analysis."
+  },
+  {
+    "objectID": "about.html#long-term-career-goal",
+    "href": "about.html#long-term-career-goal",
+    "title": "About",
+    "section": "Long-Term Career Goal",
+    "text": "Long-Term Career Goal\nMy long-term career goal is to advance into a leadership role in supply chain strategy or procurement analytics, where I can combine my technical expertise and business acumen to influence global sourcing decisions, drive digital transformation, and shape resilient supply chain networks for the future"
   }
 ]
