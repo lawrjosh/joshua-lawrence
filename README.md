@@ -1,2 +1,0 @@
-# joshua-lawrence
-Professional overview
