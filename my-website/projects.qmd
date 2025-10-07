@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+## School GitHub Repositories
+
+- [Group Employability Project](https://github.com/avagodsy/ad688-employability-sp25A1-group2) - Group Employability project for Boston University
+    - Performed Linear Regression on large job posting dataset and generated following visualizations
+    
+    - ![Actual vs. Predicted Salary via Regression Analysis](regressionscatter.png){width=50%}
+    - ![Distribution of Above/Below Average Salaries](salaryaveragepiechart.png){width=50%}
+    - ![Top 10 States by Average Salary](top10statesbarplot.png){width=50%}
+    - ![Top Job Titles by Average Salaries](Top15Bar.png){width=50%}

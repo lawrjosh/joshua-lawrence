@@ -1,0 +1,129 @@
+---
+title: "Resume/CV"
+---
+
+::: {.text-left}
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg){width=40px}](https://www.linkedin.com/in/joshua-lawrence-seattle/)
+[![](https://cdn-icons-png.flaticon.com/512/732/732200.png){width=40px}](mailto:lawrjosh@bu.edu)
+[Download a PDF version of Resume](Resume_JoshuaLawrence.pdf){.btn .btn-primary .btn-lg}
+:::
+
+## Profile
+
+Motivated and results-driven supply chain professional with leadership experience and 8+ years of experience in logistics management, regulatory compliance, and stakeholder engagement. Proven track record of driving operational efficiency and developing strategies to enhance delivery performance and mitigate risks.
+
+## Skills & Abilities
+
+- Dangerous Goods Transportation
+- Supplier Management
+- Transportation Management
+- Advanced Data Analysis
+- SQL / Teradata
+- Employee Development
+- Microsoft Office
+- OneSAP / ERPLN
+- Global Import/Export Compliance
+
+## Experience
+
+### The Boeing Company, Seattle, WA
+**December 2021 – Present**
+
+#### BCA Procurement Agent – Contract Negotiation Support / Aftermarket Deal Team
+**May 2024 – Present**
+
+- Responsible for review of BCA Supply Chain contracting activities for impact to various Aftermarket stakeholders and create connections as needed to ensure all parties account for each other's strategies.
+- Review of BCA Supply Chain contracts for language improvements to meet strategic objectives.
+- Engage program, BCA Supply Chain, and aftermarket leadership to capture best value for the Boeing company.
+- Develop and lead aftermarket coordination process to influence direction in supplier negotiations.
+
+#### BGS Procurement Agent – Business Strategy
+**January 2023 – May 2024**
+
+- Supplier development and relationship management to meet strategic business objectives.
+- Identification of business and customer pain points and development of strategies and tactical actions to remedy.
+- Execution of proprietary information agreements with suppliers being developed.
+- Cross functional alignment across BGS organization leadership and working teams to develop supplier and regional strategies identifying synergies to leverage OneBoeing approach.
+- Developed letter agreement alongside BCA functional excellence team to enable BGS simplified ordering business objective while protecting BCA interests and agreements.
+
+#### BGS Compliance & Risk Management Team (Loaned)
+**November 2023 – February 2024**
+
+- Completed 517 unique customer requests related to EU/UK Sanctions during 4-month period (62% of requests).
+- Completed onboarding and training of contract labor to resolve customer EU/UK Sanction compliance requests.
+- Supported burndown of BGS suppliers non-compliant with FAA Undue Burden requirement through coordination with GFO, SQR, and SM leadership.
+- Aligned closely with BGS business unit leaders (BDSI, BDI, MTM, Spares, and BGS-G) to establish extent of non-compliance and impact to business.
+
+#### BGS Transportation Analyst
+**December 2021 – January 2023**
+
+- Acted as primary transportation focal, working cross-functionally to meet program delivery deadlines.
+- Led 767BCF and 737BCF logistics operations facilitating transportation per MPS.
+- Managed shipment flow with logistics providers, awarding shipments based on cost-competitiveness and performance; ensuring adherence to contracted service agreements.
+- Prevented ~$250k in additional transportation costs over 10-month period through consolidation process without sacrifice to internal customer delivery deadlines.
+
+### DSV Air & Sea Inc., Kent, WA
+**April 2021 – December 2021**
+
+#### Freight Forwarder – Air Export
+
+- Increased new business award rate through creative provider and routing selection when preparing transportation quotes for complex commodities and key account customers.
+- Secured new business healthcare customer with complex requirements resulting in $400k incremental revenue.
+- Wrote SOP for healthcare customer outlining mitigation strategies to manage delays and damages working with airline partners to ensure compliance to outlined service level agreement.
+- Acted as SME for dangerous goods air export handling over 300 shipments with 100% acceptance rate.
+- Developed TMS (Transportation Management System) expertise and identified unused system capabilities resulting in increased operational efficiency and first pass quality.
+- Executed cross-trade and international freight transactions according to federal and international regulations.
+
+### Lufthansa Technik Component Services, Kent, WA
+**April 2019 – April 2021**
+
+#### Supervisor of Transport Operations West
+
+- Negotiated contracted rates with airline partners to maintain profit margin and meet contracted customer on-time performance during COVID-19 pandemic while only increasing rate to customer by 15%.
+- Discovered agent noncompliance to US Customs regulation and led resolution process through comprehensive audit and correction of all noncompliant filings.
+- Supervised cross functional teams to achieve 90% on time performance for AOG requirements.
+- Implemented regular review cadence with direct reports as open venue to discuss any concerns and review performance resulting in decreased absenteeism and higher output of employees.
+- Implemented internal dangerous goods acceptance procedures, increasing airline acceptance from 70% to 99%.
+- Prevented rejection charges and transit delays for customer as dangerous goods SME.
+- Developed and implemented new logistics strategy leveraging Dallas warehouse in gateway capacity resulting in decreased transportation cost and transit time.
+- Onboarded additional vendors increasing trucking and courier capacity to increase customer on time performance and decreased domestic transportation costs.
+
+### DB Schenker, Seattle, WA
+**December 2018 – April 2019**
+
+#### Senior Air Export Coordinator
+
+- Ensured efficient movement of customer expedited shipments while maintaining 100% data accuracy.
+- Processed highest monthly number of shipments within Boeing Control Tower team.
+- Adopted a proactive purchase order management approach with support of AOG desk resulting in decreased processing and transit time of AOG and customer critical orders.
+- Supported Boeing as service provider interpreted and adhered to contracted service level agreement.
+
+### Swissport Cargo Services, Seattle, WA
+**July 2016 – December 2018**
+
+#### Cargo Agent – Lead Screener
+
+- Accepted and screened cargo in accordance with TSA Regulation for foreign (Passenger and All Cargo) and domestic air carriers.
+- Ensured compliance to IATA dangerous goods regulation during acceptance and screening processes.
+- Instructed and mentored newly onboarded cargo agents in company and regulatory policies.
+- Ensured Freight Forwarder compliance to TSA regulations escalating security concerns as needed.
+- Facilitated regulatory audits of company screening and record retention procedures.
+
+## Education
+
+### Boston University, Metropolitan College
+**Expected December 2025**
+
+Master of Science in Business Analytics (MSBA)
+
+### Oregon State University, E-Campus
+**Awarded December 2022**
+
+Bachelor of Science in Business Information Systems 
+Cum Laude
+
+### Green River College, Auburn, WA
+**Awarded December 2020**
+
+Associate in Business
+Associate in Arts

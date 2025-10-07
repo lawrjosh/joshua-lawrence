@@ -1,0 +1,10 @@
+---
+title: "Contact Me"
+---
+
+*Feel free to connect with me to discuss supply chain strategy, logistics optimization, or data analytics in business operations.*
+
+::: {.text-left}
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg){width=40px}](https://www.linkedin.com/in/joshua-lawrence-seattle/)
+[![](https://cdn-icons-png.flaticon.com/512/732/732200.png){width=40px}](mailto:lawrjosh@bu.edu)
+:::

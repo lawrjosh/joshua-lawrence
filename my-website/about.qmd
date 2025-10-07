@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+## Profile
+
+I am a motivated and results-driven supply chain professional with over eight years of experience in logistics management, regulatory compliance, and stakeholder engagement across the aviation and transportation sectors. Currently serving as a Procurement Agent within Boeing’s BCA Aftermarket Deal Team, I specialize in contract negotiation support, supplier strategy alignment, and cross-functional collaboration to optimize performance and mitigate operational risks.
+
+## Professional Interests
+My professional interests lie at the intersection of supply chain , business analytics, and strategic sourcing—leveraging data-driven insights to enhance efficiency and deliver measurable value. Pursuing my Master of Science in Business Analytics at Boston University has deepened my analytical and decision-making capabilities, particularly in areas such as SQL, predictive modeling, and advanced data analysis.
+
+## Long-Term Career Goal
+My long-term career goal is to advance into a leadership role in supply chain strategy or procurement analytics, where I can combine my technical expertise and business acumen to influence global sourcing decisions, drive digital transformation, and shape resilient supply chain networks for the future
